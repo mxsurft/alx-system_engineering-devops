@@ -1,1 +1,1 @@
-shell basics folder in repo
+shell basics folder in repo with scripts
